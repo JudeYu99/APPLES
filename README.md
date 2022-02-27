@@ -1,5 +1,8 @@
 # APPLES
 **A**llosteric **P**rotein-protein interaction **P**ocket **L**ikelihood **E**valuation **S**ystem (APPLES)
+<div align=center>
+<img width="783" alt="APPLES_logo" src="https://user-images.githubusercontent.com/61777212/155874937-9423e332-408c-4664-ae26-90e74fe8e303.png">
+</div>
 
 ## 1.  Introduction
 
@@ -25,6 +28,10 @@ Allosteric effect, as the "second code of life", is a direct and effective way f
 ## 3. Examples
 
 - Example PDB input file can be referred to [***PPI.pdb***](https://github.com/JudeYu99/APPLES/blob/main/PPI.pdb).
+- The intermediate files obtained during the calculation are detailed in [**OUTPUTS**](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT) folder.
+- Key output file with P values can be referred to [**APPLES_PPI.csv**](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT/APPLES_PPI.csv).
+  
+  For questions and data requirements, please contact ***yzhu99@stu.suda.edu.cn***.
 
 
 
