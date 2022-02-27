@@ -11,10 +11,9 @@
 
 """
 
-### Introduction of P_Value.py
+### Introduction of Run_APPLES.py
 #
-# @ This part of program is delicated for calculating P values from all output files.
-# @ Reference: Le Guilloux V, Schmidtke P, Tuffery P. Fpocket: an open source platform for ligand pocket detection. BMC Bioinformatics. 2009;10:168. Published 2009 Jun 2.
+# @ This part of program is delicated for running all programs and fetching corresponding output files.
 #
 # @ Python package in need: time, os
 #
