@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0344
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6493
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5055
+HEADER 5  - Mean B-factor of pocket residues  : 0.6897
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.2835
+HEADER 10  -Pocket volume (convex hull)       : 0.3447
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM     92  OE2 GLU A 237      24.601  17.825  73.416  0.00  0.00           O 1
+ATOM     89   CG GLU A 237      26.930  18.263  73.219  0.00  0.00           C 0
+ATOM     94   CA ALA A 238      27.778  22.837  71.368  0.00  0.00           C 0
+ATOM     93    N ALA A 238      28.166  21.931  72.448  0.00  0.00           N 0
+ATOM    461  NH1 ARG A 285      23.753  19.546  68.328  0.48  5.47           N 1
+ATOM    457   CG ARG A 285      23.532  22.865  68.934  0.00  0.00           C 0
+ATOM     63   CD ARG A 234      22.658  20.730  76.166  0.00  0.00           C 0
+ATOM     87    O GLU A 237      28.551  20.130  71.129  0.58  1.07           O 0
+ATOM    456   CB ARG A 285      23.993  23.719  70.118  0.00  0.00           C 0
+ATOM    455    O ARG A 285      24.124  24.472  72.841  0.81  3.21           O 0
+ATOM    453   CA ARG A 285      22.903  24.576  70.774  0.00  0.00           C 0
+ATOM     60    O ARG A 234      26.604  22.558  74.746  0.54  1.07           O 0
+ATOM    458   CD ARG A 285      24.739  22.206  68.258  0.00  0.00           C 0
+TER
+END

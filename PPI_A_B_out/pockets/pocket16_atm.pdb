@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0063
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6739
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4000
+HEADER 5  - Mean B-factor of pocket residues  : 0.2888
+HEADER 6  - Hydrophobicity Score              : 19.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.7593
+HEADER 10  -Pocket volume (convex hull)       : 1.7212
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3300   CG GLN B 285      45.411  44.911  81.525  0.00  0.00           C 0
+ATOM   3302  NE2 GLN B 285      44.729  44.488  79.234  0.55  7.66           N 0
+ATOM   3143   CE MET B 265      40.484  45.689  84.288  0.00  0.00           C 0
+ATOM   3139    O MET B 265      42.340  49.730  81.587  0.33  2.14           O 0
+ATOM   3562  CD1 LEU B 316      38.253  47.594  82.111  0.00  0.00           C 0
+ATOM   3173   OG SER B 269      43.059  49.145  78.373  0.50  2.14           O 0
+ATOM   1545    N ALA A 424      39.597  43.742  75.009  0.45  1.09           N 0
+ATOM   3596  NH2 ARG B 320      41.304  48.035  76.615  0.64  4.37           N 0
+ATOM   1542   CB PRO A 423      38.472  45.343  77.309  0.00  0.00           C 0
+ATOM   1514    O LEU A 420      40.540  41.570  79.013  0.31  3.21           O 0
+ATOM   3188  OD2 ASP B 271      42.792  45.942  74.002  0.00  0.00           O 1
+ATOM   1543   CG PRO A 423      37.946  44.781  78.593  0.00  0.00           C 0
+ATOM   1517  CD1 LEU A 420      41.951  42.433  82.283  0.00  0.00           C 0
+TER
+END
