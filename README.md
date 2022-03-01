@@ -8,6 +8,11 @@
 
 Allosteric effect, as the "second code of life", is a direct and effective way for protein macromolecular machines to regulate their own functions, and will become a research hotspot in the post-AlphaFold era. Based on our previous research results, this project intends to focus on the allosteric mechanism of protein complexes  at the level of structural systems biology, and comprehensively use a variety of theoretical calculation methods to study the allosteric mechanism for targeting PPIs. Integrating the sequence conservation and coevolutionary information, as well as the topological and dynamic properties of network, we built **APPLES** - a computing platform for the systematic study of allosteric mechanism. We hoped that the completion of this project can provide theoretical guidance and bioinformatics tools for the design of allosteric drugs targeting the protein-protein interactions.
 
+The workflow of **APPLES** is shown below:
+<div align=center>
+<img width="1000" alt="workflow" src="https://user-images.githubusercontent.com/61777212/156184402-93ff0fd5-5f27-448a-b8b4-b0ad2763dbac.png">
+</div>
+
 
 ## 2. Usage
   
@@ -43,6 +48,8 @@ Allosteric effect, as the "second code of life", is a direct and effective way f
 - Le Guilloux V, Schmidtke P, Tuffery P. Fpocket: an open source platform for ligand pocket detection. BMC Bioinformatics. 2009;10:168. Published 2009 Jun 2.
 - Liu, Y., & Bahar, I. (2012). Sequence evolution correlates with structural dynamics. Molecular biology and evolution, 29(9), 2253–2263.
 - Liu, Y., Gierasch, L. M., & Bahar, I. (2010). Role of Hsp70 ATPase domain intrinsic dynamics and sequence evolution in enabling its functional interactions with NEFs. PLoS computational biology, 6(9), e1000931.
+- Dutta, A., Krieger, J., Lee, J. Y., Garcia-Nafria, J., Greger, I. H., & Bahar, I. (2015). Cooperative Dynamics of Intact AMPA and NMDA Glutamate Receptors: Similarities and Subfamily-Specific Differences. Structure (London, England : 1993), 23(9), 1692–1704.
+- Atilgan, C., & Atilgan, A. R. (2009). Perturbation-response scanning reveals ligand entry-exit mechanisms of ferric binding protein. PLoS computational biology, 5(10), e1000544.
 - Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585, 357–362.
 - Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., … SciPy 1.0 Contributors. (2020). SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17, 261–272. 
 - McKinney, W., & others. (2010). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51–56).
