@@ -16,7 +16,7 @@ The workflow of **APPLES** is shown below:
 
 ## 2. Usage
   
-  1) ***Anaconda*** is recommended for the APPLES and only Unix/Linux/MacOS operating systems are allowed.
+  1) ***Anaconda*** is recommended for the **APPLES** and only **Unix/Linux/MacOS** operating systems are allowed.
   2) External software to install: [***ChromeDriver***](https://sites.google.com/a/chromium.org/chromedriver/home)
   3) Python packages in need: ***os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium***
   4) R packages in need: ***NACEN***
