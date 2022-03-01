@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0558
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.2143
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5926
+HEADER 5  - Mean B-factor of pocket residues  : 0.3423
+HEADER 6  - Hydrophobicity Score              : 0.3750
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.3911
+HEADER 10  -Pocket volume (convex hull)       : 21.8438
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.1765
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6800
+ATOM   2117   CA PRO B 138      24.134  79.047  78.036  0.00  0.00           C 0
+ATOM   2120   CB PRO B 138      23.547  78.192  76.914  0.00  0.00           C 0
+ATOM   2263   CG PRO B 156      25.879  81.234  72.104  0.00  0.00           C 0
+ATOM   2262   CB PRO B 156      26.303  80.264  73.199  0.00  0.00           C 0
+ATOM   2128    N HIS B 140      20.065  78.495  79.823  0.71  2.19           N 0
+ATOM   2135  ND1 HIS B 140      20.400  76.758  76.918  0.79  3.28           N 0
+ATOM   2235   CB ALA B 152      18.552  77.776  72.884  0.00  0.00           C 0
+ATOM   2127   CB ALA B 139      20.754  81.690  80.273  0.00  0.00           C 0
+ATOM   2214   CG PRO B 149      14.962  78.185  76.037  0.00  0.00           C 0
+ATOM   2132   CB HIS B 140      18.523  76.965  78.680  0.00  0.00           C 0
+ATOM   2242   CD PRO B 153      20.214  81.163  71.771  0.00  0.00           C 0
+ATOM   2239    O PRO B 153      22.908  78.583  71.249  0.62  3.21           O 0
+ATOM   2241   CG PRO B 153      21.081  82.221  71.094  0.00  0.00           C 0
+ATOM   2123    N ALA B 139      22.372  80.132  79.347  0.66  7.66           N 0
+ATOM   2232   CA ALA B 152      18.267  78.860  71.838  0.00  0.00           C 0
+ATOM   2213   CB PRO B 149      14.355  78.299  74.639  0.00  0.00           C 0
+ATOM   2226    O LEU B 151      17.012  80.531  70.068  0.45  5.36           O 0
+ATOM   2231    N ALA B 152      16.989  78.589  71.179  0.72  1.09           N 0
+ATOM   2225    C LEU B 151      16.470  79.449  70.294  0.00  0.00           C 0
+ATOM   2227   CB LEU B 151      14.213  80.309  69.408  0.00  0.00           C 0
+TER
+END
