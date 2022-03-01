@@ -11,16 +11,17 @@ Allosteric effect, as the "second code of life", is a direct and effective way f
 
 ## 2. Usage
   
-  1) Anaconda is recommended for the APPLES and only Unix/Linux/MacOS operating systems are allowed.
-  2) Python packages in need: os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium
-  3) R packages in need: NACEN
-  4) Python language version: >= 3.7
-  5) R language version: >= 3.2.0
-  6) NACEN package can be downloaded in the website: http://sysbio.suda.edu.cn/NACEN/NACEN.rar. NACEN requires DSSP programme for building AAN which can be installed with command: 
+  1) ***Anaconda*** is recommended for the APPLES and only Unix/Linux/MacOS operating systems are allowed.
+  2) External software to install: [***ChromeDriver***](https://sites.google.com/a/chromium.org/chromedriver/home)
+  3) Python packages in need: ***os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium***
+  4) R packages in need: ***NACEN***
+  5) Python language version: >= 3.7
+  6) R language version: >= 3.2.0
+  7) NACEN package can be downloaded from the website: http://sysbio.suda.edu.cn/NACEN/NACEN.rar. NACEN requires DSSP program for building AAN (Amino Acid Network) which can be installed with command: 
   ```
   conda install -c salilab dssp
   ```  
-  7) The input of the program is a PDB file containing multiple chains and users can choose the chains they need. Before running ***Run_APPLES.py***, please modify line 35, line 37 for PDB chain identifiers and line 38 for PDB files. Then, change the working directory into codes folder and run the following command.
+  7) The input of the program is a PDB file containing multiple chains and users can choose the chains they need. Before running ***Run_APPLES.py***, please modify line 39, line 40 for PDB chain identifiers and line 41 for PDB files. Then, change the working directory into **codes** folder and run the following command.
   ```
   python3 Run_APPLES.py
   ```
@@ -29,7 +30,7 @@ Allosteric effect, as the "second code of life", is a direct and effective way f
 
 - Example PDB input file can be referred to [***PPI.pdb***](https://github.com/JudeYu99/APPLES/blob/main/PPI.pdb).
 - The intermediate files obtained during the calculation are detailed in [**OUTPUTS**](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT) folder.
-- Key output file with P values can be referred to [**APPLES_PPI.csv**](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT/APPLES_PPI.csv).
+- Key output file with P values and APPLES Score can be referred to [**APPLES_PPI.csv**](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT/APPLES_PPI.csv).
   
   For questions and data requirements, please contact ***yzhu99@stu.suda.edu.cn***.
 
@@ -45,5 +46,8 @@ Allosteric effect, as the "second code of life", is a direct and effective way f
 - Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585, 357–362.
 - Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., … SciPy 1.0 Contributors. (2020). SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17, 261–272. 
 - McKinney, W., & others. (2010). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51–56).
-
+- Madeira F, Park YM, Lee J, et al. The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Research. 2019 Jul;47(W1):W636-W641. 
+- UniProt BLAST (https://www.uniprot.org/blast/)
+- Clustal Omega Web Server (https://www.ebi.ac.uk/Tools/msa/clustalo/)
+- Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., … SciPy 1.0 Contributors. (2020). SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17, 261–272. 
 
