@@ -26,7 +26,7 @@ The workflow of **APPLES** is shown below:
   ```
   conda install -c salilab dssp
   ```  
-  7) The input of the program is a PDB file containing multiple chains and users can choose the chains they need. Before running ***Run_APPLES.py***, please modify line 39, line 40 for PDB chain identifiers and line 41 for PDB files. Then, change the working directory into **codes** folder and run the following command.
+  8) The input of the program is a PDB file containing multiple chains and users can choose the chains they need. Before running ***Run_APPLES.py***, please modify line 39, line 40 for PDB chain identifiers and line 41 for PDB files. Then, change the working directory into **codes** folder and run the following command.
   ```
   python3 Run_APPLES.py
   ```
