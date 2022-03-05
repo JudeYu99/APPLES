@@ -68,8 +68,6 @@ def get_Sequence(pdb_file, selection_01, selection_02):
     
     return (seq_01, seq_02)
 
-#get_Sequence("erk2_mpk3.pdb", "A", "B")
-
 
 # Get the sub structure given chain identifiers.
 def get_Sub_Structure(pdb_file, selection_01, selection_02):
