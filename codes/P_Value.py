@@ -70,9 +70,9 @@ def Allo_res_top(threshold):
     PRS_02_res = list(PRS_02["chain_02"] + "_" + PRS_02["effeRes_02"])
     PRS_02_res_top = PRS_02_res[:round(len(PRS_02_res) * threshold)]
     
-    PRS_top = coevo_top + PRS_01_res_top + PRS_02_res_top
+    PRS_top = PRS_01_res_top + PRS_02_res_top
     
-    all_res_counts = len(NACEN_01_res) + len(NACEN_02_res) + len(PRS_01_res) + len(PRS_02_res)
+    all_res_counts = len(NACEN_01_res) + len(NACEN_02_res)
     
     return (coevo_top, NACEN_top, PRS_top, all_res_counts)
 
