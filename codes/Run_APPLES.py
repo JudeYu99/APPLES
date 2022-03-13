@@ -26,7 +26,7 @@ import os
 from pdb_Parsing import *
 from Fpocket_calculation import *
 from get_BLAST_from_UniProt import *
-from merge_MSAs import *
+from align_fasta import *
 from get_aligned_MSA_from_Clustal_Omega import *
 from MI_coevolution import *
 from PRS_effectiveness import *
