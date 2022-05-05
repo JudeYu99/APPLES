@@ -36,9 +36,12 @@ The workflow of ***APPLES*** is shown below:
 - Example PDB input file can be referred to [***PPI.pdb***](https://github.com/JudeYu99/APPLES/blob/main/PPI.pdb).
 - The intermediate files obtained during the calculation are detailed in [***OUTPUTS***](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT) folder.
 - Key output file with P values and APPLES Score can be referred to [***APPLES_PPI.csv***](https://github.com/JudeYu99/APPLES/blob/main/APPLES_OUT/APPLES_PPI.csv).
+- Example screen return display is shown below: 
+<div align=center>
+<img width="600" alt="workflow" src="https://user-images.githubusercontent.com/61777212/166931621-2e8a5eba-a586-4006-8e99-e736ebff6972.jpg">
+</div>
   
   For questions and data requirements, please contact ***yzhu99@stu.suda.edu.cn***.
-
 
 
 ## 4. Reference
