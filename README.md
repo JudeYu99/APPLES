@@ -13,6 +13,14 @@ The workflow of ***APPLES*** is shown below:
 <img width="1000" alt="workflow" src="https://user-images.githubusercontent.com/61777212/156184402-93ff0fd5-5f27-448a-b8b4-b0ad2763dbac.png">
 </div>
 
+<div align="center">
+<video width="400" height="300" src="https://user-images.githubusercontent.com/61777212/169936344-b3d6f956-d5c3-47b4-815c-a6b17c40ad40.mov" controls="controls">
+</video>
+</div>
+
+
+
+
 
 ## 2. Usage
   
