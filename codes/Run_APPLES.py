@@ -126,7 +126,7 @@ if is_chain_valid(pdb_file, selection_01, selection_02):
         PPIs["PPI_P_Value"] = PPIs_P
         print("\n> *** PPI P values calculated! *** <\n")
         
-        Allo_top = Allo_res_top(threshold = 0.5)
+        Allo_top = Allo_res_top(threshold = 0.1)
         APPLES_P = APPLES_P(PPIs, Allo_top)
         PPIs["APPLES_P_Value"] = APPLES_P
         print("\n> *** APPLES P values calculated! *** <\n")
