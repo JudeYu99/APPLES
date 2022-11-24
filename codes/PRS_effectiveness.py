@@ -5,7 +5,7 @@
 
 @ author: Yu Zhu
 
-@ Email: yzhu99@stu.suda.edu.cn
+@ Email: yu.zhu.22@ucl.ac.uk
 
 @ Address: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University, Suzhou 215123, China.
 
