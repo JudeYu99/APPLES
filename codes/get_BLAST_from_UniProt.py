@@ -46,7 +46,8 @@ def get_BLAST_from_UniProt(sequence):
     driver = webdriver.Chrome(chrome_options=option)
 
     # Navigate to the UniProt BLAST page.
-    driver.get("https://www.uniprot.org/blast/")
+    #driver.get("https://www.uniprot.org/blast/")
+    driver.get("https://legacy.uniprot.org/blast/")
  
     # Get the search textbox and fill it.
     search_field = driver.find_element(By.ID, "blastQuery")
